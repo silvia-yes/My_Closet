@@ -1,0 +1,65 @@
+.bg-primary{
+    background-color:#2A4849!important;
+
+}
+.navbar-dark{
+    background-color: #334139!important;
+}
+body{
+    background-color:#9CAEA9!important;
+}
+
+.text-white{
+    color:#9CAEA9!important;
+}
+
+.bg-dark{
+    background-color:#334139!important;
+}
+.text-dark{
+     color:#2A4849!important;
+}
+.bg-light{
+    color:#334139!important;
+}
+.card-color{
+    background-color:#9CAEA9!important;
+}
+.border-light{
+    border-color:#9CAEA9!important;
+
+}
+
+.bodyFont{
+    font-family: 'Sarabun', 'sans-serif' !important;
+}
+.frameHeight {
+   height:100%;
+}
+.frameWidth{
+    width:100%;
+}
+
+.containerSize{
+    height:100%;
+    width: 100;
+}
+/* iframe{
+    height:100%;
+    width:100%;
+} */
+
+.iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+  }
+  
+  .iframe-container iframe {
+     border: 0;
+     height: 100%;
+     left: 0;
+     position: absolute;
+     top: 0;
+     width: 100%;
+  }

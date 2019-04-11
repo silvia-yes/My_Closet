@@ -1,0 +1,19 @@
+.images {
+    position: absolute;
+    top: 50px;
+    left: 500px;
+  }
+
+
+    .picktop{
+      position: absolute;
+      top: 50px;
+      left: 500px;
+    }
+    
+    .pickbottom{
+      position: absolute;
+      top: 280px;
+      left: 500px;
+    }
+    
